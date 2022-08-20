@@ -29,7 +29,7 @@ The resolution is changed using QRes
 
 ## Is it safe ? 🔒
 
-The method used is the same as using NVIDIA Control Panel and winexplorer, i don't think it's bannable but USE IT AT YOUR OWN RISK.
+Some people claimed that they got banend using true stretched, however i don't think these ellegations are true: The technique used to make true stretched working does not interract with the game directly (game memory). The only thing that could be debatable is modifying ``WS_BORDER`` and even this, i don't think this should cause any issue since it's a windows property that every application has and not part of the VALORANT game itself.
 
 
 Credits: QRes
