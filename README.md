@@ -13,6 +13,14 @@ true-stretched resolution is everything stretched.
 ![without](https://user-images.githubusercontent.com/47573987/185723174-a042a516-2e94-4276-9ac1-a1b273170dea.jpg)
 ![with](https://user-images.githubusercontent.com/47573987/185723178-6c804314-a3d9-4425-b153-0e240047e5a3.jpg)
 
+
+## How to ? 😥
+After you downloaded the binaries, open ``user.json``, inside replace 'Resolution' by the stretch resolution you want to have and 'DefaultResolution' by your monitor default resolution (e.g: 1920x1080)
+
+**Userid**: Press Windows Key + R type 'AppData' and click OK, go to Local\VALORANT\Saved\Config\ and then you should find a folder looking like this ``x9cfyg4c-a8a1-5ag7-e956-2e96bvb7gxcp-na`` here is your userid.
+
+Start the program and enjoy !
+
 ## How does it work ? ⚙
 
 First, the program change your game's config to match your default res and settings to use true-stretched (it also prevents VALORANT from changing your settings back).
