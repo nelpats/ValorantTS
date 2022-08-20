@@ -25,7 +25,9 @@ Start the program and enjoy !
 
 First, the program change your game's config to match your default res and settings to use true-stretched (it also prevents VALORANT from changing your settings back).
 Once this is done, the program will change WS_BORDER to remove them, and then set the game to Maximized.
-The resolution is changed using QRes
+The resolution is changed using QRes.
+
+NOTE: every time you ALT+TAB, your resolution will be changed automatically to your default res and will be changed back to stretch one back in game.
 
 ## Is it safe ? 🔒
 
