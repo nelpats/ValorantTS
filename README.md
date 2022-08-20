@@ -17,7 +17,7 @@ true-stretched resolution is everything stretched.
 ## How to ? 😥
 After you downloaded the binaries, open ``user.json``, inside replace 'Resolution' by the stretch resolution you want to have and 'DefaultResolution' by your monitor default resolution (e.g: 1920x1080)
 
-**Userid**: Press Windows Key + R type 'AppData' and click OK, go to Local\VALORANT\Saved\Config\ and then you should find a folder looking like this ``x9cfyg4c-a8a1-5ag7-e956-2e96bvb7gxcp-na`` here is your userid.
+**Userid**: Press Windows Key + R type 'AppData' and click OK, go to ``Local\VALORANT\Saved\Config\`` and then you should find a folder looking like this ``x9cfyg4c-a8a1-5ag7-e956-2e96bvb7gxcp-na`` here is your userid.
 
 Start the program and enjoy !
 
