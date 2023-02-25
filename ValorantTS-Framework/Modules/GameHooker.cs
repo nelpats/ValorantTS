@@ -42,7 +42,7 @@ namespace ValorantTS.Modules
                 Logged = true;
             }
 
-            // check is the game is foreground to check if the resolution needs to be changed.
+            // check is the game is foreground to check if the resolution need to be changed.
             if (IsGameForeground && GameFound)
             {
                 if (!ConfigUtils.User.Resolution.Equals(Native.GetScreenResolution()))

@@ -10,7 +10,7 @@ namespace ValorantTS
     {
         public static void Main(string[] args)
         {
-            Console.Title = "ValorantTS | github.com/NSDCode";
+            Console.Title = "ValorantTS | github.com/nelpats";
             Logger logger = new Logger();
             GameListener valHooker = new GameListener();
 

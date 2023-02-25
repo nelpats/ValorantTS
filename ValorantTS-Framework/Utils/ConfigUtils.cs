@@ -102,10 +102,6 @@ namespace ValorantTS.Utils
             File.SetAttributes(path, FileAttributes.Normal);
             parser.WriteFile(path, data);
             logger.SayOk("Config edited");
-
-            File.SetAttributes(path, FileAttributes.ReadOnly);
-            logger.SayOk("Config secured");
-
         }
 
         private static void ResetFile()
