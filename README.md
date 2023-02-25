@@ -20,6 +20,10 @@ After you downloaded the binaries, open ``user.json``, inside replace ``Resoluti
 
 Start the program and enjoy !
 
+
+NOTE: When the game is fully started, the program will ask you to press enter. Make sure that your video settings are set to `Windowed` and `Fill` before pressing enter. You may experience black bars if it is not on `Fill`. When you restart the game, the game may be revert the settings, so make sure to check this setting each time. the resolution should not matter
+![image](https://user-images.githubusercontent.com/35702680/221350489-70d71004-40ea-41d2-97b1-60d09ba17b7f.png)
+
 ## How does it work ? ⚙
 
 First, the program change your game's config to match your default res and settings to use true-stretched (it also prevents VALORANT from changing your settings back).
