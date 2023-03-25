@@ -73,9 +73,10 @@ namespace ValorantTS.Utils
             {
                 data = parser.ReadFile(path);
             } 
-            catch
+            catch (Exception ex) 
             {
                 logger.SayError("Invalid userid !");
+                logger.SayError(ex.Message);
                 Console.ReadKey();
                 Environment.Exit(1);
             }
